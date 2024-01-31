@@ -1,9 +1,0 @@
-AOA_DATA.mat 存放所有的原始数据
-AoaMapPlot.m 用作画图，对于目前的情况使用里面 type“3”即可
-DataFilter\fit_variogram\plotExpVariogram\WeightedLSFit 是老师原先写的
-kriging.m 用作kriging插值
-fitcknn.m 用作knn，直接调用的现成KNN包
-IDW.m 用作IDW插值，根据现有代码修改
-
-KNN\IDW\kriging_prediction.m 具体操作的函数
-show_result.m 显示结果
